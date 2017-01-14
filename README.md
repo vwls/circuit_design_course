@@ -1,4 +1,6 @@
-#Circuit Design and Fabrication - Taking your projects beyond the breadboard
+#Circuit Design and Fabrication
+Take your circuits beyond the breadboard! Designing PCBs is a great way to clean up a breadboard rats nests and improve the realability and reproduceability, while reducing size of your projects. Also, designing your own circuits offers new creative and aesthetic spaces to explore within your projects (e.g. you want your circuit to have zigzags or curls? Now you can!) 
+
 This repo serves to collect documents relating to circuit design and fabrication course. This course teaches circuit design from EagleCAD through home fabrication.
 
 ##Circuit Design
