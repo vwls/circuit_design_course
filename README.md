@@ -11,7 +11,7 @@ Finally, we will go over how to export these files for a variety of fabrication 
 ##Fabrication
 We will start with a shallow survey of the home and professional fabrication landscape.
 
-The photo tranfer method is the cheapest, most precise, and often fastest, approach to home PCB fabrication. Shorter versions of this course will focuse primarily on this method, but also demonstrate how to send designs files to a board house for professional fabrication.  
+This portion will focus on the photo tranfer-acid etch method. This is the cheapest, most precise, and often fastest, approach to home PCB fabrication. Shorter versions of this course will focuse primarily on this method, but also demonstrate how to send designs files to a board house for professional fabrication. Everyone will leave this course with their very own handmade PCBs!  
 
 ##Prerequisites
 This course begins where many physical computing courses finish - it will not cover how breadboard a circuit or how to write embedded software for a system. Students with some prior knowledge of physical computing will find this course most useful.
