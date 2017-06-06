@@ -1,10 +1,12 @@
 # Circuit Design and Fabrication
-Take your circuits beyond the breadboard! Designing PCBs is a great way to clean up breadboard rats nests and improve the reliability and reproducibility, while reducing size of your projects. Also, designing your own circuits offers new creative and aesthetic spaces to explore within your projects (e.g. you want your circuit to have zigzags or curls? Now you can!) 
+Take your circuits beyond the breadboard! Designing PCBs (Printed Circuit Boards) is a great way to clean up breadboard rat nests and improve the reliability and reproducibility, while reducing size of your projects. 
+
+Also, designing your own circuits offers new creative and aesthetic spaces to explore within your projects (e.g. you want your circuit to have zigzags or curls? Now you can!) 
 
 This course teaches circuit design from EagleCAD through home fabrication.
 
 ## Circuit Design
-EagleCAD is the industry standard circuit design software. Aslo, it's free to use (with some board size restrictions) and has a massive user base. 
+EagleCAD is the industry standard circuit design software. Aslo, it's free to use and has a massive user base. 
 
 We will learn Eagle by designing the same circuit schematic (``.sch`` file) and then working through our own individual board designs (``.brd`` file).
 
